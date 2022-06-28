@@ -1,0 +1,13 @@
+== Practice with Docker
+=== Run
+
+[source]
+----
+docker-compose up -d
+----
+[source]
+----
+docker-compose down -d
+----
+=== Running images
+image::https://user-images.githubusercontent.com/27693622/176113684-26acdc2b-8bf3-481c-b7f0-d9f293e81595.png[]
